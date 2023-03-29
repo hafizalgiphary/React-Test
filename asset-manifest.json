@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Test/static/css/main.e37e768e.css",
+    "main.js": "/React-Test/static/js/main.96597907.js",
+    "static/media/Banner.png": "/React-Test/static/media/Banner.ea10480458f9c4cd0cfc.png",
+    "static/media/Img-Profile.png": "/React-Test/static/media/Img-Profile.5c5298eb6d047f7b1d3b.png",
+    "static/media/Logo.svg": "/React-Test/static/media/Logo.7bc47f6d331be162bea4.svg",
+    "index.html": "/React-Test/index.html",
+    "static/media/search-line.svg": "/React-Test/static/media/search-line.1210561e4930237db861.svg",
+    "main.e37e768e.css.map": "/React-Test/static/css/main.e37e768e.css.map",
+    "main.96597907.js.map": "/React-Test/static/js/main.96597907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37e768e.css",
+    "static/js/main.96597907.js"
+  ]
+}
